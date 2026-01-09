@@ -30,13 +30,14 @@ Note: please install **PyTorch** following the official instructions to match yo
 ##  Dataset
 
 ### Download links
-
+Raw version:
 - **Scene1**: `https://huggingface.co/datasets/Atomathtang/Scene1`
 - **Scene2**: `https://huggingface.co/datasets/atomathtang11/Scene2`
 - **Scene3**: `https://huggingface.co/datasets/Atomathtang/Scene3`
 - **Scene4**: `https://huggingface.co/datasets/atomathtang11/Scene4`
 - **Scene5**: `https://huggingface.co/datasets/atomathtang11/Scene5`
 
+**notes**: The vision labels(3D keypoints groundtruth) can be downloded here. `https://huggingface.co/datasets/Songming0612/PerceptAlign_keypoints` The full clean version will be released later.
 ### Dataset directory layout
 
 
