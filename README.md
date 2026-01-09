@@ -37,7 +37,7 @@ Raw version:
 - **Scene4**: `https://huggingface.co/datasets/atomathtang11/Scene4`
 - **Scene5**: `https://huggingface.co/datasets/atomathtang11/Scene5`
 
-**notes**: The vision labels(3D keypoints groundtruth) can be downloded here. `https://huggingface.co/datasets/Songming0612/PerceptAlign_keypoints` The full clean version will be released later.
+**notes**: The vision labels(3D keypoints groundtruth) can be downloded here. `https://huggingface.co/datasets/Songming0612/PerceptAlign_keypoints` 
 ### Dataset directory layout
 
 
