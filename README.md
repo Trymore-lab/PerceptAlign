@@ -111,20 +111,22 @@ torchrun tools/train.py
 
 | Action ID | Description |
 | --- | --- |
-| action1 | Left upper-limb stretch |
-| action2 | Right upper-limb stretch |
-| action3 | Both upper-limb stretch |
+| action1 | Left arm stretch |
+| action2 | Right arm stretch |
+| action3 | Both-arms stretch |
 | action4 | Left forward lunge |
 | action5 | Right forward lunge |
-| action6 | Left side lunge |
-| action7 | Right side lunge |
+| action6 | Left lateral lunge |
+| action7 | Right lateral lunge |
 | action8 | Squat |
 | action9 | Left lateral raise |
 | action10 | Right lateral raise |
 | action11 | Jump |
 | action12 | Pick up |
-| action13 | Jump (front/back/left/right) |
-| action14 | Walk clockwise |
-| action15 | Walk counter-clockwise |
+| action13 | Jump (forward/back/left/right) |
+| action14 | Clockwise spin|
+| action15 | Counter-clockwise spin|
 | action16 | Jumping jack |
-| action17 | Torso twist |
+| action17 | left and right rotation | 
+
+note: We collected action (17) and action (18) published together here in action 17.
